@@ -1,2 +1,2 @@
 # StatSphere
-StatSphere is a cutting-edge baseball statistic program that revolutionizes the way you analyze player performance. 
+Discover the power of Statssphere, your comprehensive companion for unravelling the intricacies of baseball statistics. With its immersive interface, this program takes you on a journey through player performance data, allowing you to uncover trends, analyze historical records, and gain profound insights. Whether you're a dedicated fan, a coach, or an analyst, Statssphere provides the tools you need to enhance your understanding of the game and make informed decisions.
