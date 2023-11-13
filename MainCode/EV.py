@@ -1,14 +1,12 @@
 #EV = q*v(Pitch)+(1+q)v(Bat)
 #Typical Numbers q = 0.2/1+q=1.2
 
-q = 0.2
+Mf = .2
 
-q1 = 1.2
+Ps = int(input("What is The Pitch Speed?\n"))
 
-pitch = input("What is The Pitch Speed?\n")
+Bs = int(input("What is the Bat Speed?\n"))
 
-bat = input("What is the Bat Speed?\n")
+Ve = Mf * (Ps) + (1 + Mf) * Bs
 
-EV = q*pitch+(q1)*bat
-
-print(EV + "MPH")
+print (Ve, "MPH")
